@@ -1,0 +1,31 @@
+uuid: 3fb6ce3e-4d22-400a-a834-006e88930014
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_project_details
+    - node.type.projects
+    - paragraphs.paragraphs_type.project_details
+  module:
+    - entity_reference_revisions
+id: node.projects.field_project_details
+field_name: field_project_details
+entity_type: node
+bundle: projects
+label: 'Project Details'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:paragraph'
+  handler_settings:
+    target_bundles:
+      project_details: project_details
+    negate: 0
+    target_bundles_drag_drop:
+      project_details:
+        weight: 2
+        enabled: true
+field_type: entity_reference_revisions

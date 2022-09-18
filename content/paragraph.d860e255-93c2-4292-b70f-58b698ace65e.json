@@ -1,0 +1,61 @@
+{
+    "uuid": [
+        {
+            "value": "d860e255-93c2-4292-b70f-58b698ace65e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "project_details",
+            "target_type": "paragraphs_type",
+            "target_uuid": "9baa7b69-cd7f-4c43-a762-f570053f52ad"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-09-18T10:25:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "field_description": [
+        {
+            "value": "<p><strong>Lorem Ipsum<\/strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<\/p>\r\n",
+            "format": "basic_html"
+        }
+    ],
+    "field_thumbnail": [
+        {
+            "alt": "test",
+            "title": "",
+            "width": 800,
+            "height": 800,
+            "target_type": "file",
+            "target_uuid": "758334a0-7881-484d-b54f-81a5abee7439"
+        }
+    ]
+}

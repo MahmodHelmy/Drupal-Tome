@@ -1,0 +1,31 @@
+uuid: b164e479-d4c1-46f0-8eaa-fd42c11a5222
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.projects.field_project_details
+    - node.type.projects
+  module:
+    - entity_reference_revisions
+    - user
+id: node.projects.default
+targetEntityType: node
+bundle: projects
+mode: default
+content:
+  field_project_details:
+    type: entity_reference_revisions_entity_view
+    label: above
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden:
+  langcode: true

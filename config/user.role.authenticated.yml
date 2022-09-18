@@ -1,0 +1,22 @@
+uuid: 351b98eb-07ad-49e8-8a76-04ffe7a5fd10
+langcode: en
+status: true
+dependencies:
+  config:
+    - filter.format.basic_html
+  module:
+    - filter
+    - media
+    - shortcut
+    - system
+_core:
+  default_config_hash: PhpjKGbPRzHm1FDviTaPLu3g-svxhir96cooP-e8wSM
+id: authenticated
+label: 'Authenticated user'
+weight: 1
+is_admin: false
+permissions:
+  - 'access content'
+  - 'access shortcuts'
+  - 'use text format basic_html'
+  - 'view media'

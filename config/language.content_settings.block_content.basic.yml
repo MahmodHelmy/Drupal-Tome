@@ -1,0 +1,18 @@
+uuid: 05daa147-db14-4120-8375-efe59f3939d4
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.basic
+  module:
+    - content_translation
+third_party_settings:
+  content_translation:
+    enabled: true
+_core:
+  default_config_hash: 3Lw85WiS5-LM4WyfNIZMtBlxjvk9cgR6hhTIbat-kJQ
+id: block_content.basic
+target_entity_type_id: block_content
+target_bundle: basic
+default_langcode: site_default
+language_alterable: true

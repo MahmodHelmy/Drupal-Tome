@@ -1,0 +1,104 @@
+{
+    "uuid": [
+        {
+            "value": "43ba4189-7177-4849-9c18-5cb068f9dc96"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "projects",
+            "target_type": "node_type",
+            "target_uuid": "2b6d6305-6492-43ab-858e-5bb16e9c75a9"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2022-09-18T10:25:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "4d14974b-cf85-4afc-b900-9e068c317df1"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "4d14974b-cf85-4afc-b900-9e068c317df1"
+        }
+    ],
+    "title": [
+        {
+            "value": "Project one"
+        }
+    ],
+    "created": [
+        {
+            "value": "2022-09-18T10:24:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2022-09-18T10:25:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "moderation_state": [],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en"
+        }
+    ],
+    "content_translation_source": [
+        {
+            "value": "und"
+        }
+    ],
+    "content_translation_outdated": [
+        {
+            "value": false
+        }
+    ],
+    "field_project_details": [
+        {
+            "target_type": "paragraph",
+            "target_uuid": "d860e255-93c2-4292-b70f-58b698ace65e"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "file.758334a0-7881-484d-b54f-81a5abee7439": [
+        "user.4d14974b-cf85-4afc-b900-9e068c317df1"
+    ],
+    "paragraph.d860e255-93c2-4292-b70f-58b698ace65e": [
+        "file.758334a0-7881-484d-b54f-81a5abee7439"
+    ],
+    "node.43ba4189-7177-4849-9c18-5cb068f9dc96": [
+        "user.4d14974b-cf85-4afc-b900-9e068c317df1",
+        "paragraph.d860e255-93c2-4292-b70f-58b698ace65e"
+    ],
+    "paragraph.8b1e9f93-f7fe-4e7c-9c2e-b3456160dab1": [
+        "file.758334a0-7881-484d-b54f-81a5abee7439"
+    ],
+    "node.0d5be61b-4f99-4eea-b59f-3a1ea97f39f1": [
+        "user.4d14974b-cf85-4afc-b900-9e068c317df1",
+        "paragraph.8b1e9f93-f7fe-4e7c-9c2e-b3456160dab1"
+    ],
+    "menu_link_content.bfbe9610-67c1-4b25-8657-97e4c8872cc8": []
+}
