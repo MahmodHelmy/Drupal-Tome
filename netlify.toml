@@ -1,8 +1,6 @@
 [build]
 command = """
-composer install \
-&& ./vendor/drush/drush/drush tome:install -y \
-&& ./vendor/drush/drush/drush tome:static -l $DEPLOY_PRIME_URL
+composer install
 """
 
 # Example lines you can add before "tome:static" above if needed:
@@ -13,4 +11,4 @@ composer install \
 publish = "html"
 
 [build.environment]
-PHP_VERSION="8.1"
+PHP_VERSION="7.4"
